@@ -1,0 +1,24 @@
+From e2f478747a8ed8512a3dc566f3979917d3155885 Mon Sep 17 00:00:00 2001
+From: Venkatesh-148 <venkatesh.nokatattu@vconnectech.com>
+Date: Thu, 16 Jul 2026 16:48:44 +0530
+Subject: [PATCH] Readme.md: modified some tect is v connect good
+
+Signed-off-by: Venkatesh-148 <venkatesh.nokatattu@vconnectech.com>
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 0b46bff..460773d 100644
+--- a/README.md
++++ b/README.md
+@@ -1,5 +1,5 @@
+ # mbpoll
+-
++vconnect is good 
+ > Copyright © 2015 epsilonRT, All rights reserved.  
+ 
+ 
+-- 
+2.43.0
+
